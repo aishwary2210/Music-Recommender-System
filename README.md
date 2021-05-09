@@ -27,11 +27,11 @@ By using data science techniques & algorithms we will build recommender system w
 * Exploratory Data Analysis
 * Data Visualization
 * Machine Learning
-* etc.
+
 
 ### Technologies
 * Python
 * D3
 * PostGres Sql
 * Pandas, jupyter
-* etc. 
+
