@@ -19,3 +19,19 @@ Every year, number of individual of group of artists launch there music in the f
 Currently, being able to predict that something might be popular beforehand is an important research subject for every industry. It also has recently became a very important subject for the growing and competitive music industry as well. Since wide use of digital music platforms (Spotify, Billboard, Lastfm), data can be easily reached and the listening behaviors of the listeners can be easily observed. This provides convenience in forecasting techniques and it is also frequently used in recommendation systems.
 Every song has number of attributes, by studying & understanding this attributes with the help of previously obtained data helps us to predict the behavior of that particular data and able to make predictions on that.
 By using data science techniques & algorithms we will build recommender system which will help us to find the popularity of the music and answer some of the questions from the dataset.
+
+### Methods Used
+* Data Pre-processing 
+* Feature Explanation
+* Inferential Statistics
+* Exploratory Data Analysis
+* Data Visualization
+* Machine Learning
+* etc.
+
+### Technologies
+* Python
+* D3
+* PostGres, MySql
+* Pandas, jupyter
+* etc. 
