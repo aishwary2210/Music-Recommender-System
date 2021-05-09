@@ -32,6 +32,6 @@ By using data science techniques & algorithms we will build recommender system w
 ### Technologies
 * Python
 * D3
-* PostGres, MySql
+* PostGres Sql
 * Pandas, jupyter
 * etc. 
